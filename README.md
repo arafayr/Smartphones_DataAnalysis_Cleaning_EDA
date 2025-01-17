@@ -52,6 +52,14 @@ This project focuses on analyzing smartphone data to uncover patterns and trends
 ## Future Work
 
 - Performing multivariate analysis
-- Model building
+- Model Development
+
+## Feedback  
+Feel free to open an issue or share your feedback in the Discussions tab.  
+
+##  License  
+This project is licensed under the [MIT License](LICENSE).  
+
+---
 
 
