@@ -15,7 +15,7 @@ This project focuses on analyzing smartphone data to uncover patterns and trends
      - Splitting columns for better data structure:
        - Example: Splitting `sim` into `has_5G`, `has_NFC`, and `has_IR_Blaster`.
      - Resolving shifted data (e.g., misplaced `sim` data in the `processor` column).
-     - Imputing missing values for columns like `ratings`.
+     -  Missing values in columns like `ratings`, `refresh rate`, and `processor brand` were handled using methods like KNN imputation.
 
 2. **EDA_smartphone.ipynb**:
    - This notebook explores the cleaned dataset to understand the relationships between various features.
@@ -48,8 +48,6 @@ This project focuses on analyzing smartphone data to uncover patterns and trends
   - Android dominates the market, but iOS devices significantly impact the price range, with higher price points linked to Apple devices.
 
 
-- **Missing Data**:
-  - Missing values in columns like `ratings`, `refresh rate`, and `processor brand` were handled using methods like KNN imputation.
 
 ## Future Work
 
