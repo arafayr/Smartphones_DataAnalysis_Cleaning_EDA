@@ -5,7 +5,7 @@ This project focuses on analyzing smartphone data to uncover patterns and trends
 ## Files in the Repository
 
 1. **Cleaning_of_smartphone_data.ipynb**:
-   - This notebook handles the initial cleaning of the smartphone dataset, addressing data quality and tidiness issues.
+   * This notebook handles the initial cleaning of the smartphone dataset, addressing data quality and tidiness issues.
    - Key steps include:
      - Detecting and correcting quality issues such as:
        - Removing special characters from the price column.
